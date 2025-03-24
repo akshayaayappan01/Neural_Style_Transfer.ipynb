@@ -12,3 +12,4 @@ Neural Style Transfer (NST) is a deep learning technique that blends the content
 
 output:
 ![Image](https://github.com/user-attachments/assets/f5aa03b2-5871-4761-83c1-e0190b7a03a1)
+![Image](https://github.com/user-attachments/assets/d7169653-e356-4625-a975-e639cb191e89)
